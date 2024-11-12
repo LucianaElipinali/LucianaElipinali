@@ -1,5 +1,5 @@
 # ¡Hola! Soy *Luciana Elipinali* 👋  
-Desarrolladora Web Frontend y apasionada por el diseño y la programación 💻
+Desarrolladora Web Full Stack pero me oriento Frontend y apasionada por el diseño y la programación 💻
 ---
 
 ## Tecnologías  
